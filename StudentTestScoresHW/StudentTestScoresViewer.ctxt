@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentTestScoresViewer
+comment0.text=\r\n\ Creates\ an\ object\ of\ StudentTestScores\ and\ uses\ the\ method\ process()\r\n\ to\ find\ out\ what\ students\ scored\ on\ the\ tests\ and\ their\ average\ grade.\r\n\ Also\ includes\ finding\ the\ lowest,\ highest,\ and\ average\ test\ score.\r\n\r\n\ @author\ Haley\ Sanchez\r\n\ @version\ 12/11/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

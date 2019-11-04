@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StudentTestScores
+comment0.text=\r\n\ Use\ an\ initializer\ list\ to\ make\ a\ set\ of\ parallel\ arrays.\ One\ that\ is\ two-\r\n\ dimensional\ and\ on\ that\ is\ one-dimensional.\ The\ arrays\ will\ hold\ the\ names\r\n\ of\ students\ with\ the\ corresponding\ 4\ test\ scores.\ The\ test\ scores\ will\ be\r\n\ printed\ out\ and\ displayed\ in\ a\ list\ with\ the\ corresponding\ name,\ as\ well\r\n\ as\ that\ student's\ test\ score\ average.\ Also,\ found\ the\ lowest,highest,\ and\ \r\n\ average\ test\ score\ from\ the\ 4\ tests\ that\ the\ sudents\ took.\r\n\r\n\ @author\ Haley\ Sanchez\r\n\ @version\ 12/11/18\r\n
+comment1.params=
+comment1.target=void\ process()
+comment2.params=
+comment2.target=void\ findL()
+comment3.params=
+comment3.target=void\ findH()
+comment4.params=
+comment4.target=void\ findAvg()
+numComments=5
